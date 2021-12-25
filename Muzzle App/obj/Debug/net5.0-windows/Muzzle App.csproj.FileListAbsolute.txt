@@ -1,0 +1,70 @@
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.exe
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.deps.json
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.runtimeconfig.json
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.runtimeconfig.dev.json
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\ref\Muzzle App.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.pdb
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.AssemblyReference.cache
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\App.g.cs
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App_MarkupCompile.cache
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App_MarkupCompile.lref
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\MainWindow.baml
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.g.resources
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.AssemblyInfoInputs.cache
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.AssemblyInfo.cs
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.CoreCompileInputs.cache
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\ref\Muzzle App.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.pdb
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.genruntimeconfig.cache
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.CopyComplete
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserInfo.g.cs
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserInfo.baml
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddUserWindow.g.cs
+C:\anton\Code\C#\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddUserWindow.baml
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.exe
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.deps.json
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.runtimeconfig.json
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.runtimeconfig.dev.json
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\ref\Muzzle App.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\Muzzle App.pdb
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.AssemblyReference.cache
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddUserWindow.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\MainWindow.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserInfo.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\App.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App_MarkupCompile.cache
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App_MarkupCompile.lref
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddUserWindow.baml
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\MainWindow.baml
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserInfo.baml
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.g.resources
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.AssemblyInfoInputs.cache
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.AssemblyInfo.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.csproj.CopyComplete
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\ref\Muzzle App.dll
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.pdb
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\Muzzle App.genruntimeconfig.cache
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserEditWindow.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\UserEditWindow.baml
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddVisit.g.cs
+\\iscsi\profiles\YAkuninAA\Desktop\Muzzle App\Muzzle App\obj\Debug\net5.0-windows\AddVisit.baml

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Muzzle_App.AddUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Muzzle_App"
+        mc:Ignorable="d"
+        Title="Добавление клиента" Height="450" Width="766">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="241*"/>
+            <ColumnDefinition Width="559*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Фамилия: " HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Имя: " HorizontalAlignment="Center" Margin="0,130,0,0" VerticalAlignment="Top"/>
+        <Label Content="Отчество: " HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top"/>
+        <Label Content="Пол: " HorizontalAlignment="Center" Margin="0,190,0,0" VerticalAlignment="Top"/>
+        <Label Content="Дата рождения: " HorizontalAlignment="Center" Margin="0,220,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email: " HorizontalAlignment="Center" Margin="0,250,0,0" VerticalAlignment="Top"/>
+        <Label Content="Номер телефона: " HorizontalAlignment="Center" Margin="0,280,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="UserLastname" Grid.Column="1" HorizontalAlignment="Left" Margin="20,105,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserFirstname" Grid.Column="1" HorizontalAlignment="Left" Margin="20,135,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserPatr" Grid.Column="1" HorizontalAlignment="Left" Margin="20,165,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserGender" Grid.Column="1" HorizontalAlignment="Left" Margin="20,195,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserBirth" Grid.Column="1" HorizontalAlignment="Left" Margin="20,225,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserEmail" Grid.Column="1" HorizontalAlignment="Left" Margin="20,255,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <TextBox x:Name="UserPhone" Grid.Column="1" HorizontalAlignment="Left" Margin="20,285,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="400"/>
+        <Button Content="Добавить" Grid.Column="1" HorizontalAlignment="Left" Margin="81,341,0,0" Padding="20" Background="#FFFF4A6D" Foreground="White" VerticalAlignment="Top" Click="Button_Click"/>
+
+    </Grid>
+</Window>

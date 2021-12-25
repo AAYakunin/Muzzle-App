@@ -1,0 +1,55 @@
+﻿<Window x:Class="Muzzle_App.UserInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Muzzle_App"
+        mc:Ignorable="d"
+        Title="Информация о клиенте" Height="325" Width="450" ResizeMode="NoResize">
+    <Grid>
+        <TabControl x:Name="UserTabs">
+            <TabItem x:Name="UserInfoTab" Width="210">
+                <TabItem.Header>Информация о клиенте</TabItem.Header>
+                <TabItem.Content>
+                    <StackPanel Orientation="Vertical" Margin="10">
+                        <StackPanel x:Name="UserPanel" VerticalAlignment="Center">
+                            <StackPanel x:Name="UserName" Orientation="Horizontal">
+
+                            </StackPanel>
+                            <StackPanel x:Name="UserGender" Orientation="Horizontal">
+
+                            </StackPanel>
+                            <StackPanel x:Name="UserBirth" Orientation="Horizontal">
+
+                            </StackPanel>
+                            <StackPanel x:Name="UserRegDate" Orientation="Horizontal">
+
+                            </StackPanel>
+                            <StackPanel x:Name="UserEmail" Orientation="Horizontal">
+
+                            </StackPanel>
+                            <StackPanel x:Name="UserPhone" Orientation="Horizontal">
+
+                            </StackPanel>
+                        </StackPanel>
+                        <StackPanel x:Name="UserButtons" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0, 15, 0, 0">
+                            <Button x:Name="UserButtonEdit" Content="Редактировать" Margin="10" Padding="20" Background="#FFFF4A6D" Foreground="White" Click="UserButtonEdit_Click"></Button>
+                            <Button x:Name="UserButtonAddVisit" Content="Назначить посещение" Margin="10" Padding="20" Background="#FFFF4A6D" Foreground="White" Click="UserButtonAddVisit_Click"></Button>
+                        </StackPanel>
+                    </StackPanel>
+                </TabItem.Content>
+            </TabItem>
+            <TabItem x:Name="UserHistory" Width="210">
+                <TabItem.Header>Посещения</TabItem.Header>
+                <TabItem.Content>
+                    <ScrollViewer Name="scrollServ" CanContentScroll="True" Height="780">
+                        <StackPanel x:Name="scrollPanelServ">
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem.Content>
+            </TabItem>
+            
+        </TabControl>
+    </Grid>
+</Window>

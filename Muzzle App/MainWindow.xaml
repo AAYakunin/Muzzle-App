@@ -1,0 +1,41 @@
+﻿<Window x:Class="Muzzle_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Muzzle_App"
+        mc:Ignorable="d"
+        Title="Muzzle App" Height="800"  Width="1300" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="321*"/>
+            <ColumnDefinition Width="979*"/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel x:Name="LeftPanel" Background="#FFFFE4FF">
+            <Button x:Name="VisitCheck" Content="Посещение" Margin="25, 30, 25, 25" Padding="30" Background="#FFFF4A6D" Foreground="White" Click="AddUser_Click"/>
+            <Button x:Name="AddUser" Content="Новый клиент" Margin="25, 25, 25, 25" Padding="30" Background="#FFFF4A6D" Foreground="White" Click="AddUser_Click"/>
+            <Button x:Name="UpdateList"  Content="Обновить" Margin="25, 400, 25, 0" Padding="30" Background="#FFFF4A6D" Foreground="White" Click="UpdateList_Click"/>
+
+        </StackPanel>
+        
+        <StackPanel x:Name="RightPanel" Grid.Column="1">
+            <TabControl x:Name="Tabs">
+                <TabItem x:Name="Tab1" Width="300">
+                    <TabItem.Header>
+                        <TextBlock>Список клиентов</TextBlock>
+                    </TabItem.Header>
+                    <TabItem.Content>
+                        <ScrollViewer Name="scroll" CanContentScroll="True" Height="780">
+                            <StackPanel x:Name="scrollPanel">
+                                
+                            </StackPanel>
+                        </ScrollViewer>
+                    </TabItem.Content>
+                </TabItem>
+                
+            </TabControl>
+        </StackPanel>
+        
+    </Grid>
+</Window>
